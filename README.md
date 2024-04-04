@@ -68,7 +68,7 @@ Most of the configuration is done in the `config.json` file.
 
 Clone the repository
 ```shell
-git clone https://github.com/c4g7-dev/webshell-v1.git
+git clone https://github.com/c4g7-dev/WebShell-v1.git
 ```
 Go to the project directory
 ```webshell-v1
