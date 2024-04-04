@@ -1,0 +1,56 @@
+{
+  "ascii": [
+    "███████╗██╗  ██╗███████╗██╗     ██╗",
+    "██╔════╝██║  ██║██╔════╝██║     ██║",
+    "███████╗███████║█████╗  ██║     ██║",
+    "╚════██║██╔══██║██╔══╝  ██║     ██║",
+    "███████║██║  ██║███████╗███████╗███████╗",
+    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+  ],
+  "title": "WebShell",
+  "username": "visitor",
+  "hostname": "webshell",
+  "password": "passw0r1",
+  "repoLink": "https://github.com/c4g7-dev/WebShell-v1",
+  "social": {
+    "email": "me@c4g7.com",
+    "github": "c4g7-dev",
+    "linkedin": "you"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "projects": [
+    [
+      "Matrixcore",
+      "PHP Hosting Panel.",
+      "https://github.com/c4g7-dev/hostPanel01"
+    ],
+    [
+      "WebShell",
+      "Terminal styled website.",
+      "https://github.com/c4g7-dev/WebShell-v1"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
